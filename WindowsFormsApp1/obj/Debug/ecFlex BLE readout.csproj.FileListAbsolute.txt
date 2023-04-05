@@ -1,0 +1,88 @@
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows.winmd
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csprojAssemblyReference.cache
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.GenerateResource.cache
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CoreCompileInputs.cache
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CopyComplete
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sindr\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csprojAssemblyReference.cache
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.GenerateResource.cache
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CoreCompileInputs.cache
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CopyComplete
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\OneDrive\PhD\SW\Windows app\v1.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csprojAssemblyReference.cache
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.GenerateResource.cache
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CoreCompileInputs.cache
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\exFlex BLE readout.exe.config
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\exFlex BLE readout.exe.manifest
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\exFlex BLE readout.application
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\exFlex BLE readout.exe
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\exFlex BLE readout.pdb
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\System.Runtime.WindowsRuntime.dll
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\Windows.winmd
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\exFlex BLE readout.exe.manifest
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\exFlex BLE readout.application
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CopyComplete
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\exFlex BLE readout.exe
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\obj\Debug\exFlex BLE readout.pdb
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\Simplify.Resources.dll
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\Simplify.Windows.Forms.dll
+D:\OneDrive\PhD\SW\Windows app\v1.2\WindowsFormsApp1\bin\Debug\System.Drawing.Primitives.dll
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csprojAssemblyReference.cache
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.GenerateResource.cache
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CoreCompileInputs.cache
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\exFlex BLE readout.exe
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\exFlex BLE readout.pdb
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\exFlex BLE readout.exe.config
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\exFlex BLE readout.exe.manifest
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\exFlex BLE readout.application
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\exFlex BLE readout.exe
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\exFlex BLE readout.pdb
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\System.Runtime.WindowsRuntime.dll
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\Windows.winmd
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\Simplify.Resources.dll
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\Simplify.Windows.Forms.dll
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\bin\Debug\System.Drawing.Primitives.dll
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\exFlex BLE readout.exe.manifest
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\exFlex BLE readout.application
+D:\Dropbox (ZimmerPeacock)\ZimmerPeacock Team Folder\Product Development\ecFlex\ecFlex BLE readout\v1.4\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CopyComplete
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\exFlex BLE readout.exe.config
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\exFlex BLE readout.exe.manifest
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\exFlex BLE readout.application
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\exFlex BLE readout.exe
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\exFlex BLE readout.pdb
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\System.Runtime.WindowsRuntime.dll
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\Windows.winmd
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\Simplify.Resources.dll
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\Simplify.Windows.Forms.dll
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\bin\Debug\System.Drawing.Primitives.dll
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csprojAssemblyReference.cache
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.GenerateResource.cache
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CoreCompileInputs.cache
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\exFlex BLE readout.exe.manifest
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\exFlex BLE readout.application
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\ecFlex BLE readout.csproj.CopyComplete
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\exFlex BLE readout.exe
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\exFlex BLE readout.pdb
+D:\Git\ecFlex\ecFlex_BLEreadout\WindowsFormsApp1\obj\Debug\ecFlexBLEreadout.Properties.Resources.resources
